@@ -2,6 +2,6 @@
 export const STUDENT_CONFIG = {
   numePeste: 'Nori',
   numeStudent: 'Costan Andrei',
-  grupa: 'Grupa Web',
+  grupa: '3111Db',
   mesaj: 'Publicat live din fork-ul meu GitHub!',
 };
